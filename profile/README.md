@@ -3,7 +3,7 @@
 ![영상썸네일](./image/영상썸네일.png)
 
 ## 🎥 시연영상
-![시연영상](https://github.com/user-attachments/assets/d5365f12-45d8-4ed7-b648-5d919e162c7c)
+<video src="https://github.com/user-attachments/assets/d5365f12-45d8-4ed7-b648-5d919e162c7c" controls width="600"></video>
 
 
 ## 목차
