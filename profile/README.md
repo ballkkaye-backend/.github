@@ -7,24 +7,28 @@
 
 
 ## 목차
-1. [🗓️ 개발 기간 및 참여 인원](#%EF%B8%8F-개발-기간-및-참여-인원)
-2. [🔚 회고](#%EF%B8%8F-회고)
-3. [💡 주요 기능](#%EF%B8%8F-주요-기능)
-4. [✍️ 개인 기여도 및 역할](#%EF%B8%8F-개인-기여도-및-역할)
-5. [👥 백엔드-팀원](#%EF%B8%8F-백엔드-팀원)
-6. [🛠️ 기술 스택](#%EF%B8%8F-기술-스택)
-7. [🧩 문제 해결 경험](#%EF%B8%8F-문제-해결-경험)
-8. [🗂️ ERD](#%EF%B8%8F-erd)
-9. [📄 API 문서](#%EF%B8%8F-api-문서)
-10. [🧠 프로젝트 소개](#%EF%B8%8F-프로젝트-소개)
+1. [🗓️ 개발 기간 및 참여 인원](#개발기간및참여인원)
+2. [🔚 회고](#회고)
+3. [💡 주요 기능](#주요기능)
+4. [✍️ 개인 기여도 및 역할](#개인기여도및역할)
+5. [👥 백엔드-팀원](#백엔드팀원)
+6. [🛠️ 기술 스택](#기술스택)
+7. [🧩 문제 해결 경험](#문제해결경험)
+8. [🗂️ ERD](#erd)
+9. [📄 API 문서](#api문서)
+10. [🧠 프로젝트 소개](#프로젝트소개)
 
 
+<a id="개발기간및참여인원"></a>
 ## 🗓️ 개발 기간 및 참여 인원
 - 기간: 2025.06.16 ~ 2025.07.17
 - 인원: 6인 팀 프로젝트
 
 
+
+<a id="회고"></a>
 ## 🔚 회고
+
 1️⃣ **협업을 통해 시야를 넓히다**
 
 **이전 프로젝트에서는 팀장이 DB 설계부터 서버 세팅까지 혼자 도맡아 진행**했지만, 이번 프로젝트에서는 백엔드 팀원들과 함께 **DB 설계를 공동으로 진행**했습니다.
@@ -41,6 +45,7 @@
 비록 완벽하게 마무리하진 못했지만, 이전 프로젝트보다 **더 복잡한 로직에 도전하며 많은 것을 배웠고**, 어려운 상황 속에서도 협업과 기술적 도전을 즐길 수 있었습니다. 앞으로도 지속적으로 개선하고 발전하는 개발자가 되기 위해 노력할 것입니다.
 
 
+<a id="주요기능"></a>
 ## 💡 주요 기능
 - 팀·선수별 데이터 기반 승리 예측 & 스코어 예측
 - 날씨 데이터 연동을 통한 경기 우천 취소 예측
@@ -50,6 +55,7 @@
   - 사용자가 경기 승리팀을 예측하면 포인트를 획득하고, 누적 포인트에 따라 티어(등급)가 상승하는 구조로, 팬의 참여도를 높이고 재미 요소를 강화
 
 
+<a id="개인기여도및역할"></a>
 ## ✍️ 개인 기여도 및 역할
 ### 개인
 - 타자 라인업 크롤링
@@ -77,6 +83,7 @@
     - 기본적인 컨벤션을 예전 프로젝트들로 부터 참고하여 작성
 
 
+<a id="백엔드팀원"></a>
 ## 👥 백엔드 팀원
 <table>
   <thead>
@@ -106,6 +113,7 @@
 </table>
 
 
+<a id="기술스택"></a>
 ## 🛠️ 기술 스택
 | 구분 | 내용 |
 |------|------|
@@ -117,11 +125,12 @@
 | **API 문서화** | ![Spring Rest Docs](https://img.shields.io/badge/Spring%20Rest%20Docs-6DB33F?style=for-the-badge&logo=spring&logoColor=white) |
 | **테스트** | ![JUnit](https://img.shields.io/badge/JUnit-25A162?style=for-the-badge&logo=junit5&logoColor=white) |
 | **기타** | ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black) |
-| **로컬 개발용 DB** | ![H2 Database](https://img.shields.io/badge/H2-007396?style=for-the-badge&logo=java&logoColor=white) |
-| **운영 DB** | ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white) ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white) |
+| **로컬 개발용 DB** | ![H2 Database](https://img.shields.io/badge/H2-007396?style=for-the-badge&logo=java&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white) |
+| **운영 DB** | ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white) |
 | **협업 도구** | ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white) ![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white) |
 
 
+<a id="문제해결경험"></a>
 ## 🧩 문제 해결 경험
 ### 🔔 문제1 : Redis Pub/Sub + Docker 기반 -> FCM 기반 알림 시스템으로 전환
 - **✅ 문제 상황**
@@ -153,15 +162,18 @@
     - 실수로 인한 민감정보 노출은 누구나 할 수 있는 실수지만, **Git 관리의 중요성**과 함께 **BFG 등 복구 도구에 대한 사전 학습**이 실무에서도 매우 유용함을 느꼈음
  
 
+<a id="erd"></a>
 ## 🗂️ ERD
 ![ERD](./image/ERD.png)
 
 
+<a id="api문서"></a>
 ## 📄 API 문서
 ![API문서](./image/문서1.png)
 ![API문서](./image/문서1.png)
 
 
+<a id="프로젝트소개"></a>
 ## 🧠 프로젝트 소개
 ![핵심기능소개](./image/핵심기능소개.png)
 **볼까예**는 야구 팬들을 위한 통합형 커뮤니티 플랫폼입니다.
